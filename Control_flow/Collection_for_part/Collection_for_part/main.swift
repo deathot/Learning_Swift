@@ -141,16 +141,18 @@ switch myTuple
 
 }
 */
-var mytuple = (1, 3, 7)
+//var mytuple = (1, 3, 7)
+//
+//switch mytuple {
+//    
+//case(let myele1, 2, 6):
+//    print("myele1 = \(myele1)")
+//    
+//case(let myele1, let myele2, 7):
+//    print("myele1 = \(myele1)", "myele2 = \(myele2)")
+//    
+//default:
+//    print("ok")
+//}
+//
 
-switch mytuple {
-    
-case(let myele1, 2, 6):
-    print("myele1 = \(myele1)")
-    
-case(let myele1, let myele2, 7):
-    print("myele1 = \(myele1)", "myele2 = \(myele2)")
-    
-default:
-    print("ok")
-}
